@@ -1,0 +1,84 @@
+6  #_of_nodes
+
+5  #_of_states_var_0
+h1  node_label
+hoses
+laser
+sheet
+snail
+steer
+2  1 2  neighbor
+0  #constraints_stored
+102 116  Coordinate
+
+5  #_of_states_var_1
+v3  node_label
+also
+earn
+hike
+iron
+same
+3  0 3 5  neighbor
+1  #constraints_stored
+0  5  nb/#legal_config
+0 4 ; 1 4 ; 2 1 ; 3 0 ; 4 1 ; 
+242 156  Coordinate
+
+6  #_of_states_var_2
+v5  node_label
+eat
+let
+run
+sun
+ten
+yes
+2  0 3  neighbor
+1  #constraints_stored
+0  5  nb/#legal_config
+0 3 ; 1 2 ; 2 4 ; 3 1 ; 4 2 ; 
+385 116  Coordinate
+
+5  #_of_states_var_3
+h8  node_label
+also
+earn
+hike
+iron
+same
+3  1 2 4  neighbor
+2  #constraints_stored
+1  1  nb/#legal_config
+1 3 ; 
+2  6  nb/#legal_config
+2 1 ; 2 3 ; 3 1 ; 3 3 ; 4 1 ; 
+4 3 ; 
+102 254  Coordinate
+
+5  #_of_states_var_4
+v10  node_label
+be
+it
+no
+us
+oo
+2  3 5  neighbor
+1  #constraints_stored
+3  1  nb/#legal_config
+3 4 ; 
+284 254  Coordinate
+
+5  #_of_states_var_5
+h12  node_label
+be
+it
+no
+us
+oo
+2  1 4  neighbor
+2  #constraints_stored
+1  3  nb/#legal_config
+0 4 ; 1 2 ; 3 2 ; 
+4  7  nb/#legal_config
+0 0 ; 1 1 ; 2 2 ; 2 4 ; 3 3 ; 
+4 2 ; 4 4 ; 
+242 369  Coordinate
